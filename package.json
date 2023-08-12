@@ -1,0 +1,34 @@
+{
+  "name": "blogsh",
+  "version": "1.0.0",
+  "description": "A awesome static site generator for crating blogs!",
+  "main": "index.js",
+  "scripts": {
+    "test": "ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biitlenl/blogsh.git"
+  },
+  "keywords": [
+    "blog",
+    "blogsh",
+    "biitle",
+    "biitlenl",
+    "static",
+    "site",
+    "generator",
+    "staticsite",
+    "sitegenerator",
+    "web",
+    "website",
+    "js",
+    "javascript"
+  ],
+  "author": "biitle.nl",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/biitlenl/blogsh/issues"
+  },
+  "homepage": "https://github.com/biitlenl/blogsh#readme"
+}
